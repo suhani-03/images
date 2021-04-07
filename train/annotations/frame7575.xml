@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>frame7575.jpg</filename>
+	<path>/home/new3/Documents/ocr/OpenCV/frame_01_selected/train/images/frame7575.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tray_img</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>45</ymin>
+			<xmax>828</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>
